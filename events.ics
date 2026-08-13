@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:1430f36b63a8301acb0e1e67ea5a1a80@village-calendar.492kw.github.io
-DTSTAMP:20260813T004334Z
+DTSTAMP:20260813T000000Z
 SUMMARY:Men's Breakfast
 LOCATION:St Paul’s Church 43 St Paul’s Tce\, Spring Hill
 DESCRIPTION:A Thousand Lives are our Village Church men’s ministry events
@@ -30,7 +30,7 @@ DTEND;TZID=Australia/Brisbane:20260822T093000
 END:VEVENT
 BEGIN:VEVENT
 UID:b7589bf9b59e3564fd3e2c10039d244f@village-calendar.492kw.github.io
-DTSTAMP:20260813T004334Z
+DTSTAMP:20260813T000000Z
 SUMMARY:Growing in Faith | A Gather Event
 LOCATION:St Paul’s Church 43 St Paul’s Tce\, Spring Hill
 DESCRIPTION:Throughout 2026 the GatHer Women’s Ministry has been planning
@@ -48,7 +48,7 @@ DTEND;TZID=Australia/Brisbane:20260829T103000
 END:VEVENT
 BEGIN:VEVENT
 UID:bc6b04a75525c016355cd09377c5985d@village-calendar.492kw.github.io
-DTSTAMP:20260813T004334Z
+DTSTAMP:20260813T000000Z
 SUMMARY:Newcomers Lunch
 LOCATION:Village Church Office\, Block Z1\, Room 201\, 24 Parer Place\, KG
 DESCRIPTION:Are you new to Village? Do you want to hear more about who we a
@@ -65,7 +65,7 @@ DTEND;TZID=Australia/Brisbane:20260906T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:8d7ae98561d6f82752e40f526dcdfad9@village-calendar.492kw.github.io
-DTSTAMP:20260813T004334Z
+DTSTAMP:20260813T000000Z
 SUMMARY:Newcomers Dinner
 LOCATION:St Pauls\, 43 St Pauls Tce
 DESCRIPTION:Are you new to Village Church? Do you want to hear more about w
@@ -83,7 +83,7 @@ DTEND;TZID=Australia/Brisbane:20260906T193000
 END:VEVENT
 BEGIN:VEVENT
 UID:527ec461ca1a60e66b2bd13b2b449d7e@village-calendar.492kw.github.io
-DTSTAMP:20260813T004334Z
+DTSTAMP:20260813T000000Z
 SUMMARY:Kelvin Grove Playgroup
 LOCATION:The Exchange Community Centre\, 81 Musk Ave\, Kelvin Grove
 DESCRIPTION:Do you want to meet other parents from the Kelvin Grove communi
