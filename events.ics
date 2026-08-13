@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Village Church Kelvin Grove//Auto-Updating Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Village Church Events
+X-WR-TIMEZONE:Australia/Brisbane
+URL:https://enzo491kw-design.github.io/village-church-calendar/events.ics
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:1430f36b63a8301acb0e1e67ea5a1a80@village-calendar.492kw.github.io
+DTSTAMP:20260813T004334Z
+SUMMARY:Men's Breakfast
+LOCATION:St Paul’s Church 43 St Paul’s Tce\, Spring Hill
+DESCRIPTION:A Thousand Lives are our Village Church men’s ministry events
+ \, where we gather a few times a year to eat\, encourage one another and d
+ ive into difficult discussions together. A Thousand Lives is for guys of a
+ ll ages\, from youth to grey hairs. A part of the vision (it’s in the na
+ me) is that we want to be growing together\, by sharing our lives closely 
+ with one another\, in a culture where it’s increasingly rare for guys to
+  walk closely with one another. Join the men of Village for a brekky toget
+ her. There will be time to chat but also to spend a bit of time thinking a
+ bout Titus 2 together\, and what it has to say to us today as men.\n\nSour
+ ce: https://www.vc.org.au/events/\nRegister: https://villagechurchbne.chur
+ chsuite.com/events/v78bynwe
+URL:https://villagechurchbne.churchsuite.com/events/v78bynwe
+DTSTART;TZID=Australia/Brisbane:20260822T083000
+DTEND;TZID=Australia/Brisbane:20260822T093000
+END:VEVENT
+BEGIN:VEVENT
+UID:b7589bf9b59e3564fd3e2c10039d244f@village-calendar.492kw.github.io
+DTSTAMP:20260813T004334Z
+SUMMARY:Growing in Faith | A Gather Event
+LOCATION:St Paul’s Church 43 St Paul’s Tce\, Spring Hill
+DESCRIPTION:Throughout 2026 the GatHer Women’s Ministry has been planning
+  events that help Women live as Christians in this world. We started the y
+ ear with a talk on One Anothering\, then we had a talk on understanding ou
+ r value to God and how we can and should depend on Him. This August we are
+  excited to run our first practical workshop for women at Village Church. 
+ This workshop will help us grow in our faith as we action God’s calling 
+ to disciples each other. We look forward to seeing you then!\n\nSource: ht
+ tps://www.vc.org.au/events/\nRegister: https://villagechurchbne.churchsuit
+ e.com/events/lqi8whfh
+URL:https://villagechurchbne.churchsuite.com/events/lqi8whfh
+DTSTART;TZID=Australia/Brisbane:20260829T093000
+DTEND;TZID=Australia/Brisbane:20260829T103000
+END:VEVENT
+BEGIN:VEVENT
+UID:bc6b04a75525c016355cd09377c5985d@village-calendar.492kw.github.io
+DTSTAMP:20260813T004334Z
+SUMMARY:Newcomers Lunch
+LOCATION:Village Church Office\, Block Z1\, Room 201\, 24 Parer Place\, KG
+DESCRIPTION:Are you new to Village? Do you want to hear more about who we a
+ re and what we’re on about? Then come join us at Newcomers Lunch – an 
+ introduction to the life\, ministry\, and mission of Village Church. It wi
+ ll be an opportunity to meet some of the team\, hear our story\, and ask a
+  few questions along the way. By the end of it\, you’ll know what next s
+ teps you can take here at Village. We’d love to see you there!\n\nSource
+ : https://www.vc.org.au/events/\nRegister: https://villagechurchbne.church
+ suite.com/events/e63a0un0
+URL:https://villagechurchbne.churchsuite.com/events/e63a0un0
+DTSTART;TZID=Australia/Brisbane:20260906T120000
+DTEND;TZID=Australia/Brisbane:20260906T140000
+END:VEVENT
+BEGIN:VEVENT
+UID:8d7ae98561d6f82752e40f526dcdfad9@village-calendar.492kw.github.io
+DTSTAMP:20260813T004334Z
+SUMMARY:Newcomers Dinner
+LOCATION:St Pauls\, 43 St Pauls Tce
+DESCRIPTION:Are you new to Village Church? Do you want to hear more about w
+ ho we are and what we’re on about? Then come join us at our Newcomers Di
+ nner where you will hear an introduction to the life\, ministry\, and miss
+ ion of Village Church. It will be an opportunity to meet some of the team\
+ , hear our story\, and ask a few questions along the way. By the end of it
+ \, you’ll know what next steps you can take here at Village. Dinner will
+  be provided\, so you don’t have to bring anything with you\, and dietar
+ y requirements will be catered for.\n\nSource: https://www.vc.org.au/event
+ s/\nRegister: https://villagechurchbne.churchsuite.com/events/sgsol0k3
+URL:https://villagechurchbne.churchsuite.com/events/sgsol0k3
+DTSTART;TZID=Australia/Brisbane:20260906T183000
+DTEND;TZID=Australia/Brisbane:20260906T193000
+END:VEVENT
+BEGIN:VEVENT
+UID:527ec461ca1a60e66b2bd13b2b449d7e@village-calendar.492kw.github.io
+DTSTAMP:20260813T004334Z
+SUMMARY:Kelvin Grove Playgroup
+LOCATION:The Exchange Community Centre\, 81 Musk Ave\, Kelvin Grove
+DESCRIPTION:Do you want to meet other parents from the Kelvin Grove communi
+ ty and give your children a fun and safe playtime? Every Friday morning 
+ – during the school term – mums and dads\, along with their little one
+ s\, from Village Church and the wider community get together to sing\, rea
+ d stories\, play games and do craft together. We love kids and love gettin
+ g to know other parents in the community. All people are always welcome!\n
+ \nSource: https://www.vc.org.au/events/\nContact: playgroup@vc.org.au\nOcc
+ urs every Friday during school term. The site does not publish term dates\
+ ; the recurring rule is intentionally not term-bounded.
+URL:https://www.vc.org.au/events/
+DTSTART;TZID=Australia/Brisbane:20260814T093000
+DTEND;TZID=Australia/Brisbane:20260814T110000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

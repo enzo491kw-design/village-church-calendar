@@ -1,0 +1,86 @@
+{
+  "source_url": "https://www.vc.org.au/events/",
+  "retrieved_at": "2026-08-13T10:43:34.072116+10:00",
+  "timezone": "Australia/Brisbane",
+  "events": [
+    {
+      "title": "Men's Breakfast",
+      "description": "A Thousand Lives are our Village Church men’s ministry events, where we gather a few times a year to eat, encourage one another and dive into difficult discussions together. A Thousand Lives is for guys of all ages, from youth to grey hairs. A part of the vision (it’s in the name) is that we want to be growing together, by sharing our lives closely with one another, in a culture where it’s increasingly rare for guys to walk closely with one another. Join the men of Village for a brekky together. There will be time to chat but also to spend a bit of time thinking about Titus 2 together, and what it has to say to us today as men.",
+      "source_url": "https://www.vc.org.au/events/",
+      "registration_url": "https://villagechurchbne.churchsuite.com/events/v78bynwe",
+      "when": "Saturday, 22 August",
+      "time": "8:30 am",
+      "location": "St Paul’s Church 43 St Paul’s Tce, Spring Hill",
+      "contact": null,
+      "kind": "single",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Growing in Faith | A Gather Event",
+      "description": "Throughout 2026 the GatHer Women’s Ministry has been planning events that help Women live as Christians in this world. We started the year with a talk on One Anothering, then we had a talk on understanding our value to God and how we can and should depend on Him. This August we are excited to run our first practical workshop for women at Village Church. This workshop will help us grow in our faith as we action God’s calling to disciples each other. We look forward to seeing you then!",
+      "source_url": "https://www.vc.org.au/events/",
+      "registration_url": "https://villagechurchbne.churchsuite.com/events/lqi8whfh",
+      "when": "Saturday, 29 August",
+      "time": "9:30 am",
+      "location": "St Paul’s Church 43 St Paul’s Tce, Spring Hill",
+      "contact": null,
+      "kind": "single",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Newcomers Lunch",
+      "description": "Are you new to Village? Do you want to hear more about who we are and what we’re on about? Then come join us at Newcomers Lunch – an introduction to the life, ministry, and mission of Village Church. It will be an opportunity to meet some of the team, hear our story, and ask a few questions along the way. By the end of it, you’ll know what next steps you can take here at Village. We’d love to see you there!",
+      "source_url": "https://www.vc.org.au/events/",
+      "registration_url": "https://villagechurchbne.churchsuite.com/events/e63a0un0",
+      "when": "Sunday, 6 September",
+      "time": "12-2pm",
+      "location": "Village Church Office, Block Z1, Room 201, 24 Parer Place, KG",
+      "contact": null,
+      "kind": "single",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "Newcomers Dinner",
+      "description": "Are you new to Village Church? Do you want to hear more about who we are and what we’re on about? Then come join us at our Newcomers Dinner where you will hear an introduction to the life, ministry, and mission of Village Church. It will be an opportunity to meet some of the team, hear our story, and ask a few questions along the way. By the end of it, you’ll know what next steps you can take here at Village. Dinner will be provided, so you don’t have to bring anything with you, and dietary requirements will be catered for.",
+      "source_url": "https://www.vc.org.au/events/",
+      "registration_url": "https://villagechurchbne.churchsuite.com/events/sgsol0k3",
+      "when": "Sunday, 6 September",
+      "time": "6:30-7:30pm",
+      "location": "St Pauls, 43 St Pauls Tce",
+      "contact": null,
+      "kind": "single",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "Kelvin Grove Playgroup",
+      "description": "Do you want to meet other parents from the Kelvin Grove community and give your children a fun and safe playtime? Every Friday morning – during the school term – mums and dads, along with their little ones, from Village Church and the wider community get together to sing, read stories, play games and do craft together. We love kids and love getting to know other parents in the community. All people are always welcome!",
+      "source_url": "https://www.vc.org.au/events/",
+      "registration_url": null,
+      "when": "Every Friday (during school term), 9:30–11AM",
+      "time": null,
+      "location": "The Exchange Community Centre, 81 Musk Ave, Kelvin Grove",
+      "contact": "playgroup@vc.org.au",
+      "kind": "recurring",
+      "weekday": "FR",
+      "start_time": "09:30",
+      "end_time": "11:00"
+    }
+  ],
+  "skipped": [
+    {
+      "title": "Church Picnic",
+      "reason": "clearly past listing",
+      "when": "Sun, 21 June"
+    },
+    {
+      "title": "Coffee Before Church",
+      "reason": "clearly past listing",
+      "when": "Sun, 21 June"
+    },
+    {
+      "title": "The Story",
+      "reason": "no dated time supplied on source page"
+    }
+  ],
+  "source_sha256": "7f16b9d0385764114325948d422ae8d11f89b7ad86fc32272938444435ecb598"
+}
